@@ -1,1 +1,5 @@
-/Users/junhyungchang/.gitconfig
+[user]
+	name = Krishna
+	email = jh.krishna.chang@gmail.com
+[credential]
+	helper = osxkeychain

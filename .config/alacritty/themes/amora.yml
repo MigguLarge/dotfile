@@ -1,0 +1,28 @@
+# Colors (Amora)
+colors:
+    # Default colors
+    primary:
+        background: "#2a2331"
+        foreground: "#dedbeb"
+
+    # Normal colors
+    normal:
+        black: "#28222d"
+        red: "#ed3f7f"
+        green: "#a2baa8"
+        yellow: "#eacac0"
+        blue: "#9985d1"
+        magenta: "#e68ac1"
+        cyan: "#aabae7"
+        white: "#dedbeb"
+
+    # Bright colors
+    bright:
+        black: "#302838"
+        red: "#fb5c8e"
+        green: "#bfd1c3"
+        yellow: "#f0ddd8"
+        blue: "#b4a4de"
+        magenta: "#edabd2"
+        cyan: "#c4d1f5"
+        white: "#edebf7"

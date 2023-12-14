@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/junhyungchang/Documents/startpage3/scss'
+let g:netrw_dirhist_0='/Users/junhyungchang/Documents/simpleJss'
+let g:netrw_dirhist_9='/Users/junhyungchang/Documents/palette'
+let g:netrw_dirhist_8='/Users/junhyungchang/Documents/startpage2'
+let g:netrw_dirhist_7='/Users/junhyungchang/.config/scripts'
+let g:netrw_dirhist_6='/Users/junhyungchang/Documents/simpleJss'
+let g:netrw_dirhist_5='/Users/junhyungchang/alacritty'
+let g:netrw_dirhist_4='/Users/junhyungchang/.config'
+let g:netrw_dirhist_3='/Users/junhyungchang/Documents/startpage/public/style'
+let g:netrw_dirhist_2='/Users/junhyungchang/Documents/iosNowPlaying/public'

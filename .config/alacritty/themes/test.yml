@@ -1,0 +1,28 @@
+# Colors (Test)
+colors:
+    # Default colors
+    primary:
+        background: "#dedede"
+        foreground: "#2d2d2d"
+
+    # Normal colors
+    normal:
+        black: "#2d2d2d"
+        red: "#f25757" #k
+        green: "#04e762" #k
+        yellow: "#f3b700"
+        blue: "#4392f1" #k
+        magenta: "#745296" #k
+        cyan: "#5d92d4" #k
+        white: "#dedede"
+
+    # Bright colors
+    bright:
+        black: "#2d2d2d"
+        red: "#fb5c8e"
+        green: "#bfd1c3"
+        yellow: "#f0ddd8"
+        blue: "#b4a4de"
+        magenta: "#edabd2"
+        cyan: "#c4d1f5"
+        white: "#dedede"

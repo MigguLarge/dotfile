@@ -1,0 +1,33 @@
+# Colors (Hello)
+colors:
+    # Default colors
+    primary:
+        background: "#faf3f3"
+        foreground: "#393e46"
+        dim_foreground: "#000000"
+
+    cursor:
+        text: "#faf3f3"
+        cursor: "#768091"
+
+    # Normal colors
+    normal:
+        black: "#23262B"
+        red: "#da7f8f"
+        green: "#8e9775"
+        yellow: "#eeb76b"
+        blue: "#3d84b8"
+        magenta: "#7b6079"
+        cyan: "#a7d0cd"
+        white: "#E0DADA"
+
+    # Bright colors
+    bright:
+        black: "#393e46"
+        red: "#da7f8f"
+        green: "#8e9775"
+        yellow: "#eeb76b"
+        blue: "#3d84b8"
+        magenta: "#7b6079"
+        cyan: "#a7d0cd"
+        white: "#faf3f3"

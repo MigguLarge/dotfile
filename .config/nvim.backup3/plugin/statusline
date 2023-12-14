@@ -1,0 +1,45 @@
+" statusline
+set statusline=
+set statusline+=%5*
+set statusline+=%1*\ %f\ 
+set statusline+=%2*
+set statusline+=%3*\ %{&filetype}
+set statusline+=\ %m
+set statusline+=%=
+set statusline+=%l
+set statusline+=%2*\ :\ 
+set statusline+=%3*%c\ 
+set statusline+=%4*
+
+" horizon dark
+" hi User1 ctermfg=black ctermbg=yellow guifg=#16161c guibg=#fab795
+" hi User2 ctermfg=yellow ctermbg=black guifg=#fab795 guibg=#16161c
+" hi User3 ctermfg=white ctermbg=black guifg=#e0e0e0 guibg=#16161c
+" hi User4 ctermfg=black ctermbg=none guifg=#16161c guibg=none
+" hi User5 ctermfg=yellow ctermbg=none guifg=#fab795 guibg=none
+
+" seoul256
+" hi User1 guifg=#4e4e4e guibg=#d8af5f
+" hi User2 guifg=#d8af5f guibg=#4e4e4e
+" hi User3 guifg=#d0d0d0 guibg=#4e4e4e
+" hi User4 guifg=#4e4e4e guibg=none
+" hi User5 guifg=#d8af5f guibg=none
+
+" onedark
+" hi User1 ctermfg=black ctermbg=yellow guifg=#4b5263 guibg=#e5c07b
+" hi User2 ctermfg=yellow ctermbg=black guifg=#e5c07b guibg=#4b5263
+" hi User3 ctermfg=white ctermbg=black guifg=#abb2bf guibg=#4b5263
+" hi User4 ctermfg=black ctermbg=none guifg=#4b5263 guibg=none
+" hi User5 ctermfg=yellow ctermbg=none guifg=#e5c07b guibg=none
+
+" gruvbox_dark
+" hi User1 ctermfg=black ctermbg=yellow guifg=#282828 guibg=#d79921
+" hi User2 ctermfg=yellow ctermbg=black guifg=#d79921 guibg=#282828
+" hi User3 ctermfg=white ctermbg=black guifg=#a89984 guibg=#282828
+" hi User4 ctermfg=black ctermbg=none guifg=#282828 guibg=none
+" hi User5 ctermfg=yellow ctermbg=none guifg=#d79921 guibg=none
+hi User1 ctermfg=black ctermbg=yellow guifg=#282828 guibg=#d79921
+hi User2 ctermfg=yellow ctermbg=none guifg=#d79921 guibg=none
+hi User3 ctermfg=white ctermbg=none guifg=#a89984 guibg=none
+hi User4 ctermfg=black ctermbg=none guifg=#282828 guibg=none
+hi User5 ctermfg=yellow ctermbg=none guifg=#d79921 guibg=none

@@ -1,0 +1,100 @@
+:e
+climbStairs 1
+climbStairs 2
+climbStairs 3
+climbStairs 4
+climbStairs 5 
+:e
+climbStairs 1 0
+climbStairs 5 0
+:e
+climbStairs 5 0
+:e
+climbStairs 5 0
+climbStairs 4 0
+climbStairs 3 0
+climbStairs 2 0
+climbStairs 1 0
+climbStairs 1\ 0
+climbStairs 100 0
+:e
+:?
+:clear
+clear
+climbStairs 100 0
+climbStairs 4 0
+climbStairs 3 0
+climbStairs 2 0
+:l climbStairs.hs 
+:i ClimbStairs
+:q
+:e
+newnPr 5 3
+newnPr 53
+newnPr 9 1
+:e
+newnPr 9 1
+newnPr 5 3
+:e
+newnPr 5 3
+:e
+:l algorithmPuzzle.hs
+:e
+:q
+nCr 5 3 
+:e
+:e
+nCr 5 3 
+:e
+nCr 5 3 
+:e
+nCr 5 3 3
+:e
+nPr 5 3 3
+:e
+nPr 5 3 3
+:e
+:e
+:e
+nPr 5 3 3
+:e
+nPr 5 3 3
+:e
+nPr 5 3 3
+nPr 5 3 4
+nPr 5 3 3
+nPr 5 3 2
+nPr 5 3 3
+:e
+:l algorithmPuzzle.hs
+:q
+nPr 1 9 1
+:e
+nPr 1 9 1
+:e
+nPr 1 9 1
+:e
+nPr 1 9 1
+:e
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:e
+multiplyFromTo 1 9 1
+:l algorithmPuzzle.hs
+:q
+:e
+:e

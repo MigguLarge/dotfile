@@ -1,0 +1,34 @@
+# Colors (Hello Dark)
+colors:
+    # Default colors
+    primary:
+        background: "#252525"
+        foreground: "#f4eee8"
+        dim_foreground: "#000000"
+
+        # Cursor colors
+    cursor:
+        text: "#5F6875"
+        cursor: "#f4eee8"
+
+    # Normal colors
+    normal:
+        black: "#393e46"
+        red: "#da7f8f"
+        green: "#8e9775"
+        yellow: "#eeb76b"
+        blue: "#3d84b8"
+        magenta: "#7b6079"
+        cyan: "#a7d0cd"
+        white: "#f4eee8"
+
+    # Bright colors
+    bright:
+        black: "#4C535E"
+        red: "#da7f8f"
+        green: "#8e9775"
+        yellow: "#eeb76b"
+        blue: "#3d84b8"
+        magenta: "#7b6079"
+        cyan: "#a7d0cd"
+        white: "#ffffff"
